@@ -81,6 +81,11 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring-context-support</artifactId>
     </dependency>
+    <!-- thymeleaf模板引擎 -->
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-thymeleaf</artifactId>
+    </dependency>
     <!-- log4j2 -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
